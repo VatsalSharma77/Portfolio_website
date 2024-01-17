@@ -28,6 +28,8 @@ nav {
   justify-content: space-around;
   flex-wrap: wrap;
   background-color: #1f2833;
+  position: fixed;
+  z-index: 3;
 }
 .left > h1 {
   font-size: 33px;
