@@ -384,6 +384,9 @@ nav .fas {
   .header-text > h1 {
     font-size: 30px;
   }
+  nav{
+    position: relative;
+  }
   nav .fas {
     display: block;
     /* font-size: 50px; */
